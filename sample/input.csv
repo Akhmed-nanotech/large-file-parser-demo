@@ -1,0 +1,16 @@
+id,email,name,status,amount
+1,ada@example.com,Ada Lovelace,active,250.00
+2,grace@example.com,Grace Hopper,active,100
+3,alan@example.com,Alan Turing,active,99.99
+4,linus@example.com,Linus Torvalds,inactive,500
+5,margaret@example.com,Margaret Hamilton,active,1000.50
+6,tim@example.com,Tim Berners-Lee,pending,300
+7,bad-amount@example.com,Bad Amount,active,not-a-number
+8,missing-status@example.com,Missing Status,,150
+9,katherine@example.com,Katherine Johnson,active,150.25
+10,edsger@example.com,Edsger Dijkstra,inactive,75
+11,empty-name@example.com,,active,400
+12,radia@example.com,Radia Perlman,ACTIVE,200
+13,short@example.com,Short Row
+14,extra@example.com,"Extra, Person",active,180,ignored
+15,space@example.com,Spacey, active ,125
